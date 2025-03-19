@@ -1,0 +1,2 @@
+python LinkPrediction.py
+pause
